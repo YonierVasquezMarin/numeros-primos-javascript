@@ -1,5 +1,3 @@
-import listaPrimos from './primos-service'
-
 document.querySelector('#btnMostrarPrimos').addEventListener('click', e => {
     
     // Limpiar pantalla

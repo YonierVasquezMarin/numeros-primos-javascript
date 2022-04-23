@@ -3,7 +3,7 @@
  * @param {number} cantidad
  * @returns {Array}
  */
-export function listaPrimos(cantidad) {
+function listaPrimos(cantidad) {
     let numerosPrimos = [];
     
     let cursor = 1;
