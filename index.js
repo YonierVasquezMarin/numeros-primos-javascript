@@ -1,3 +1,5 @@
+import { listaPrimos } from "./release.js";
+
 document.querySelector('#btnMostrarPrimos').addEventListener('click', e => {
     
     // Limpiar pantalla
