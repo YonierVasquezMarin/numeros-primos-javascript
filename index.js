@@ -17,7 +17,6 @@ document.querySelector('#btnMostrarPrimos').addEventListener('click', e => {
 
         mostrarDuracionAlgoritmo(tiempoInicial, tiempoFinal);
 
-        // Mostrar los números primos en pantalla
         mostrarNumerosEnPantalla(numerosPrimosObtenidos)
     }, 120)
     
