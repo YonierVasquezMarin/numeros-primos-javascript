@@ -13,7 +13,7 @@ document.querySelector('#btnMostrarPrimos').addEventListener('click', e => {
 
         // Mostrar los números primos en pantalla
         mostrarNumerosEnPantalla(numerosPrimosObtenidos)
-    }, 250)
+    }, 120)
     
 });
 
